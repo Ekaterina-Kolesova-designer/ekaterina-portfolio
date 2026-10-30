@@ -1,0 +1,3 @@
+# Crawlers must be allowed to read the noindex meta tag / X-Robots-Tag header.
+User-agent: *
+Allow: /
